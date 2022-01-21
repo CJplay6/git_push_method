@@ -25,3 +25,9 @@
 1. ssh-keygen -t rsa -C  "xxx@xxx.com"  三次回车
 
 2. cat ~/.ssh/id_rsa.pub 获取公钥
+
+![image](./image/rsa.png)
+
+## 设置公钥
+
+![image](./image/config_rsa.png)
